@@ -21,7 +21,7 @@ namespace GameListLibrary
         {
 
         }
-
+        //this is step 11 part1
         public Game(String Team1, String Team2, int Team1score, int Team2score)
         {
             this.Team1 = Team1;
