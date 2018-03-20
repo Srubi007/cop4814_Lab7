@@ -27,7 +27,6 @@ namespace GameListLibrary
             this.Team1score = Team1score;
             this.Team2score = Team2score;
         }
-        //this is step 11 part 2
         public override string ToString()
         {
             return string.Format("{0} ({2}) - {1} ({3})", Team1, Team2, Team1score, Team2score);
@@ -35,4 +34,4 @@ namespace GameListLibrary
     }
 }
 
-//this is step 10 part 2
+//this is step 10 part 1
