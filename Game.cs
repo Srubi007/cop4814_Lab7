@@ -6,6 +6,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//this is step 10 part 1
+
 namespace GameListLibrary
 {
     public class Game
