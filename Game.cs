@@ -1,10 +1,12 @@
 //This was done during Step 7
->>lab7
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
+//this is step 10 part 1
 
 namespace GameListLibrary
 {
@@ -19,7 +21,7 @@ namespace GameListLibrary
         {
 
         }
-
+        //this is step 11 part1
         public Game(String Team1, String Team2, int Team1score, int Team2score)
         {
             this.Team1 = Team1;
