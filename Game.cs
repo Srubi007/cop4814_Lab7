@@ -1,5 +1,5 @@
 //This was done during Step 7
-using fakething;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,7 +29,6 @@ namespace GameListLibrary
             this.Team1score = Team1score;
             this.Team2score = Team2score;
         }
-
         public override string ToString()
         {
             return string.Format("{0} ({2}) - {1} ({3})", Team1, Team2, Team1score, Team2score);
@@ -37,4 +36,4 @@ namespace GameListLibrary
     }
 }
 
-//this is step 10 part 2
+//this is step 10 part 1
